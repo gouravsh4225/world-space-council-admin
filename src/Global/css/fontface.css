@@ -1,0 +1,6 @@
+@font-face {
+     font-family: "Nato";
+     src:
+          local("Nato"),
+          url("../../assets/fonts/Noto_Sans/Noto_Sans-Regular.ttf") format("ttf");
+}
