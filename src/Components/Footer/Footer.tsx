@@ -8,8 +8,14 @@ const Footer = () => {
             <a href="#!" className="text-primary">
               World Space Council
             </a>
-            . Designed with <span className="fa fa-heart text-danger"></span> by{" "}
-            <a href="#!"> Gourav Sharma </a> All rights reserved.
+            . Designed with <span className="fa fa-heart text-danger"></span> by
+            <a
+              href="https://gouravsh4225.github.io/v2-portfolio/"
+              target="_blank"
+            >
+              Gourav Sharma
+            </a>
+            All rights reserved.
           </div>
         </div>
       </div>

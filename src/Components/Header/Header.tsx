@@ -1,7 +1,6 @@
 import "./_Header.scss";
-import { HeaderToggle } from "./Components/HeaderToggle";
+// import { HeaderToggle } from "./Components/HeaderToggle";
 import { HeaderBrand } from "./Components/HeaderBrand";
-// import { HeaderNotification } from "./Components/HeaderNotification";
 import { HeaderProfile } from "./Components/HeaderProfile";
 
 const Header = () => {
@@ -9,7 +8,7 @@ const Header = () => {
     <div className="app-header header top-header">
       <div className="container-fluid main-container">
         <div className="d-flex">
-          <HeaderToggle />
+          {/* <HeaderToggle /> */}
           <HeaderBrand />
           <div className="d-flex order-lg-2 ms-lg-auto align-items-center">
             {/* <HeaderNotification />  */}
